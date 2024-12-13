@@ -13,11 +13,11 @@
 /* Fonts */
 :root {
   /* --default-font: "Sora", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
-  --default-font: "Faculty Glyphic", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --default-font: "Lexend", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   /* --heading-font: "Sora", sans-serif; */
-  --heading-font: "Faculty Glyphic", sans-serif;
+  --heading-font: "Lexend", sans-serif;
   /* --nav-font: "Sora", sans-serif; */
-  --nav-font: "Faculty Glyphic", sans-serif;
+  --nav-font: "Lexend", sans-serif;
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
@@ -969,7 +969,7 @@ section,
 .testimonials .testimonial-item {
   box-sizing: content-box;
   text-align: center;
-  min-height: 320px;
+  min-height: 120px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
